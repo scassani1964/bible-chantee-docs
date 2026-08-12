@@ -28,7 +28,7 @@ Bible Chantée transforme l'intégralité de la Bible en chansons musicales dans
 
 ## 📧 Contact
 
-scassani1964@gmail.com
+info@manialibris.com
 
 ---
 
