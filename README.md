@@ -4,7 +4,7 @@ Documentation complète du projet Bible Chantée.
 
 ## 🌐 Accès au Site
 
-Visitez la documentation: https://scassani1964.github.io/bible-chantee-docs/
+Visitez la documentation: https://global-opera.github.io/bible-chantee-docs/
 
 ## 📚 Contenu
 
